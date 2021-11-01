@@ -5,10 +5,10 @@
 OldSchoolGames is a project in which I tried to recreate simple games using Monogame and myEngine in C#.  
 
 **So far, I've recreated :**   
-Rock Paper Scissors (not included yet)  
-TicTacToe (not included yet)  
+Rock Paper Scissors (not included on GitHub yet)  
+TicTacToe (not included on GitHub yet)  
 Arkanoid  
-Asteroid (not finished)  
+Asteroid (unfinished)  
 Mine Sweeper  
 Pong  
 Snake  
