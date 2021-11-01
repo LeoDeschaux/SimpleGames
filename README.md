@@ -18,9 +18,9 @@ Sudoku
 
 **Games that might be added in the futur :**
 Tetris
-a generic 2D Platformer (like Mario)  
-a 2D top down adventure game (like Zelda)  
-a turn based game (like Pokemon)  
+a generic 2D Platformer (Mario like)  
+a 2D top down adventure game (Zelda like)  
+a turn based game (Pokemon like)  
 Chess  
-a 3D shooter (like Doom)  
+a 3D shooter (Doom like)  
 a 3D race game (either car or spaceship)  
