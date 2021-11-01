@@ -16,8 +16,8 @@ Sudoku
 
 ***
 
-**Games that might be added in the futur :**
-Tetris
+**Games that might be added in the futur :**  
+Tetris  
 a generic 2D Platformer (Mario like)  
 a 2D top down adventure game (Zelda like)  
 a turn based game (Pokemon like)  
