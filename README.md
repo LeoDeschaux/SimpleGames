@@ -2,7 +2,7 @@
 
 > :warning: **This project is a work in progress**  
 
-OldSchoolGames is a project in which I tried to recreate simple games using Monogame and myEngine in C#.  
+OldSchoolGames is a project in which I tri to recreate simple games using Monogame and myEngine in C#.  
 
 **So far, I've recreated :**   
 Rock Paper Scissors (not included on GitHub yet)  
