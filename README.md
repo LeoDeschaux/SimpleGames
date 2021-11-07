@@ -1,8 +1,8 @@
-# OldSchoolGames  
+# SimpleGames
 
 > :warning: **This project is a work in progress**  
 
-OldSchoolGames is a project in which I try to recreate simple games using Monogame and myEngine in C#.  
+SimpleGames is a project in which I try to recreate simple games using Monogame and myEngine in C#.  
 It is also a place for me to test the limites of myEngine as it helps me understand what features are necessary to build an actual game.  
 
 **So far, I've recreated :**   
